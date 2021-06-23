@@ -1,7 +1,8 @@
 # Yoga Interface
 
 
-<img src="./assets/yoga-interface.png" alt="yoga-interface-image">
+<img src="./assets/yoga-interface.png" alt="yoga-interface-image"
+width="400px">
 
 >This project aimed to style a login screen sent through Figma. Only HTML and CSS were used in this project.
 
@@ -17,8 +18,8 @@ The project had a great progress, but improvements can still be implemented in t
 
 ### 💻 Technologies used
 In this project, parameters were extracted from Figma, and used HTML and CSS, namely: <br>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code><b>39%</b> <br>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code><b>61%</b>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code><b>44%</b> <br>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code><b>56%</b>
 
 ### 🤝 Contributors
 
